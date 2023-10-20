@@ -109,3 +109,6 @@ header {
         transform: rotate(-10deg) skew(-10deg)
     }
 }
+img{
+    border-radius: 40%;
+}
