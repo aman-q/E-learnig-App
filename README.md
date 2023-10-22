@@ -39,7 +39,7 @@ We welcome contributions to make E-Learner better. Here's how you can contribute
 
 ## Live Demo
 
-You can check out a live demo of E-Learner [here](https://main--grand-maamoul-6251c1.netlify.app/courses).
+You can check out a live demo of E-Learner [here](https://main--grand-maamoul-6251c1.netlify.app/).
 
 ## Installation
 
