@@ -77,3 +77,4 @@ If you encounter any issues during the installation process or have questions, p
 
 This detailed installation guide should help users set up your project on their local machines effectively. Make sure to replace `"yourusername/e-learner.git"` with the actual repository URL if it's hosted elsewhere, and ensure that you provide relevant instructions for using npm or yarn based on your project's configuration.
 ```
+![eler](https://github.com/aman-q/E-learnig-App/assets/88573178/7430bcdd-2eff-4fa1-b946-f184290647b8)
